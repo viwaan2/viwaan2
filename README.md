@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey, I'm Viwaan.
 
-<!--
-**viwaan2/viwaan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a curiosity for technology, business, and the systems that drive innovation.
 
-Here are some ideas to get you started:
+My journey started long before code. As a competitive swimmer, I learned to value consistency, resilience, and long-term thinking—qualities that continue to shape how I approach learning and building today.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in software, emerging technologies, and problem solving
+
+📈 Fascinated by business, finance, and entrepreneurship
+
+🏛️ Active in student leadership and technical communities
+
+🏋️ Fitness enthusiast and lifelong learner
+
+This profile is a collection of projects, experiments, and ideas that reflect what I'm currently exploring.
