@@ -13,3 +13,9 @@ My journey started long before code. As a competitive swimmer, I learned to valu
 🏋️ Fitness enthusiast and lifelong learner
 
 This profile is a collection of projects, experiments, and ideas that reflect what I'm currently exploring.
+
+## 📊 GitHub Stats
+
+![Viwaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
