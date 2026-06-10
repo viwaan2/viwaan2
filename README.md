@@ -14,6 +14,6 @@ My journey started long before code. As a competitive swimmer, I learned to valu
 
 This profile is a collection of projects, experiments, and ideas that reflect what I'm currently exploring.
 
-## 📊 GitHub Stats
+## 🧩 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aswHMjw0bq?theme=dark&font=Karma)
