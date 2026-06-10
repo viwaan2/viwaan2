@@ -17,3 +17,5 @@ This profile is a collection of projects, experiments, and ideas that reflect wh
 ## 🔥 LeetCode Activity
 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/aswHMjw0bq?theme=dark&ext=heatmap)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
