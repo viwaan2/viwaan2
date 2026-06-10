@@ -16,6 +16,4 @@ This profile is a collection of projects, experiments, and ideas that reflect wh
 
 ## 📊 GitHub Stats
 
-![Viwaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?ext=contest)
